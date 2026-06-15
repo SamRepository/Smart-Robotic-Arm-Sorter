@@ -94,7 +94,7 @@ The custom YOLOv8n model was trained on the **"Bottle Defect Detection"** datase
 ## 🎓 Credits
 
 - **Author:** Bougueroua Nada
-- **Co-Author:** Lamine
+- **Co-Author:** Lamine Techno
 - **Supervisor:** Dr. Sellami Samir
 - **Institution:** Université 20 Août 1955 - Skikda (Département d'Informatique)
 - **Academic Year:** 2025 / 2026
