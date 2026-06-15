@@ -1,0 +1,17 @@
+# Framework Web pour l'interface de supervision (Dashboard)
+Flask>=2.3.2
+
+# YOLOv8 pour la détection d'objets et l'IA
+ultralytics>=8.0.0
+
+# Traitement d'images et gestion du flux de la webcam
+opencv-python>=4.8.0
+
+# Bibliothèque pour envoyer des requêtes HTTP (commandes) du Raspberry Pi vers l'ESP32
+requests>=2.31.0
+
+# Manipulation de matrices et tableaux (dépendance requise par OpenCV et Ultralytics)
+numpy>=1.24.0
+
+# Serveur WSGI de production (Recommandé pour faire tourner Flask proprement sur Raspberry Pi)
+gunicorn>=21.2.0
