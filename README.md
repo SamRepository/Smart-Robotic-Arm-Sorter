@@ -80,6 +80,10 @@ python app.py
 
 Open your web browser and navigate to `http://<RASPBERRY_PI_IP>:5000` to access the supervision dashboard.
 
+```
+
+```
+
 ---
 
 ## 📊 Dataset & Model Performance
@@ -91,9 +95,9 @@ The custom YOLOv8n model was trained on the **"Bottle Defect Detection"** datase
 
 ---
 
-> ![Global Architecture](https://file+.vscode-resource.vscode-cdn.net/e%3A/PFE%20ENSET/PFE%20ARM-Robot%20EPS32%20-%202025/Smart-Robotic-Arm-Sorter/docs/Hardware_Sys.png)
->
-> # **🎓 Credits**
+![Sys Hardaware](docs/Hardware_Sys.png)
+
+# **🎓 Credits**
 
 - **Author:** Bougueroua Nada
 - **Co-Author:** Lamine Techno
