@@ -91,7 +91,9 @@ The custom YOLOv8n model was trained on the **"Bottle Defect Detection"** datase
 
 ---
 
-## 🎓 Credits
+> ![Global Architecture](https://file+.vscode-resource.vscode-cdn.net/e%3A/PFE%20ENSET/PFE%20ARM-Robot%20EPS32%20-%202025/Smart-Robotic-Arm-Sorter/docs/Hardware_Sys.png)
+>
+> # **🎓 Credits**
 
 - **Author:** Bougueroua Nada
 - **Co-Author:** Lamine Techno
